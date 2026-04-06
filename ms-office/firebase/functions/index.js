@@ -432,7 +432,8 @@ exports.api = onRequest(
     cors: [
       "http://127.0.0.1:4000",
       "https://taricohenry.github.io",
-      "https://taricohenry.github.io/ms-office/"
+      "https://taricohenry.github.io/ms-office/",
+      "https://royaltechgy.com"
     ],
     maxInstances: 3,
     concurrency: 10
