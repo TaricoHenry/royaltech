@@ -7,8 +7,8 @@ baseurl: ""
 
 collections_dir: collections
 plugins: []
-macbook_url: "/neo/"
-office_url: "/office/"
+macbook_url: "/macbook-neo"
+office_url: "/ms-office"
 whatsapp_url: "https://google.com"
-facebook_url: "https://facebook.com/royaltechnologiesgy"
+facebook_url: "https://www.facebook.com/people/Royal-Technologies/61574230534094/"
 email_address: "sales@royaltechgy.com"
