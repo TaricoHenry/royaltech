@@ -3,7 +3,7 @@ description: MacBooks and Microsoft 365 solutions in Guyana with fast local supp
 
 # GitHub Pages URL (NO custom domain)
 url: https://taricohenry.github.io
-baseurl: /
+baseurl: ""
 
 collections_dir: collections
 plugins: []
